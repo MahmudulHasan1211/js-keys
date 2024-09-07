@@ -8,6 +8,6 @@ const computer = {
 const keys = Object.keys(computer)
 console.log(keys)
 
-// values 
+// values print
 const values = Object.values(computer)
 console.log(values)
